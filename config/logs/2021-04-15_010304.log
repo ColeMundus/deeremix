@@ -1,0 +1,724 @@
+2021-04-15 01:03:04,410 - [INFO] Linux-4.4.0-19041-Microsoft-x86_64-with-glibc2.29 - Python 3.8.5, deemix 2.0.16
+2021-04-15 01:06:55,614 - [INFO] Generating queue item for: https://www.deezer.com/en/artist/7890062
+2021-04-15 01:07:21,206 - [INFO] [album_191090432_3] Added to queue.
+2021-04-15 01:07:21,206 - [INFO] [album_160266662_3] Added to queue.
+2021-04-15 01:07:21,207 - [INFO] [album_109530482_3] Added to queue.
+2021-04-15 01:07:21,207 - [INFO] [album_92095052_3] Added to queue.
+2021-04-15 01:07:21,208 - [INFO] [album_79877032_3] Added to queue.
+2021-04-15 01:07:21,208 - [INFO] [album_78417572_3] Added to queue.
+2021-04-15 01:07:21,210 - [INFO] [album_69612952_3] Added to queue.
+2021-04-15 01:07:21,210 - [INFO] [album_42220211_3] Added to queue.
+2021-04-15 01:07:21,210 - [INFO] [album_14344408_3] Added to queue.
+2021-04-15 01:07:21,211 - [INFO] [album_13082702_3] Added to queue.
+2021-04-15 01:07:21,212 - [INFO] [album_12865188_3] Added to queue.
+2021-04-15 01:07:21,212 - [INFO] [album_152280562_3] Added to queue.
+2021-04-15 01:07:21,212 - [INFO] [track_916267662_3] Added to queue.
+2021-04-15 01:07:21,213 - [INFO] [track_796301392_3] Added to queue.
+2021-04-15 01:07:21,213 - [INFO] [track_725651472_3] Added to queue.
+2021-04-15 01:07:21,214 - [INFO] [track_649782212_3] Added to queue.
+2021-04-15 01:07:21,214 - [INFO] [track_583075942_3] Added to queue.
+2021-04-15 01:07:21,214 - [INFO] [track_561891882_3] Added to queue.
+2021-04-15 01:07:21,215 - [INFO] [track_546727072_3] Added to queue.
+2021-04-15 01:07:21,216 - [INFO] [album_71057012_3] Added to queue.
+2021-04-15 01:07:21,216 - [INFO] [track_525234032_3] Added to queue.
+2021-04-15 01:07:21,217 - [INFO] [track_511036672_3] Added to queue.
+2021-04-15 01:07:21,217 - [INFO] [track_369223131_3] Added to queue.
+2021-04-15 01:07:21,217 - [INFO] [track_349109331_3] Added to queue.
+2021-04-15 01:07:21,218 - [INFO] [track_142808100_3] Added to queue.
+2021-04-15 01:07:21,218 - [INFO] [track_780614452_3] Added to queue.
+2021-04-15 01:07:21,219 - [INFO] [album_191090432_3] Started downloading.
+2021-04-15 01:07:21,219 - [INFO] [Alessia Cara - Make It To Christmas] Getting the tags
+2021-04-15 01:07:21,221 - [INFO] [Alessia Cara - The Christmas Song] Getting the tags
+2021-04-15 01:07:21,226 - [INFO] [Alessia Cara - The Only Thing Missing] Getting the tags
+2021-04-15 01:07:22,331 - [INFO] [Alessia Cara - Make It To Christmas (Stripped)] Getting the album cover
+2021-04-15 01:07:22,490 - [INFO] [Alessia Cara - The Christmas Song] Getting the album cover
+2021-04-15 01:07:22,553 - [INFO] [Alessia Cara - Make It To Christmas (Stripped)] Downloading the track
+2021-04-15 01:07:22,651 - [INFO] [Alessia Cara - The Christmas Song] Downloading the track
+2021-04-15 01:07:22,698 - [INFO] [Alessia Cara - The Only Thing Missing] Getting the album cover
+2021-04-15 01:07:22,699 - [INFO] [Alessia Cara - The Only Thing Missing] Downloading the track
+2021-04-15 01:07:23,100 - [INFO] [Alessia Cara - Make It To Christmas (Stripped)] downloading 9123003 bytes
+2021-04-15 01:07:23,152 - [INFO] [Alessia Cara - The Christmas Song] downloading 7856586 bytes
+2021-04-15 01:07:23,244 - [INFO] [Alessia Cara - The Only Thing Missing] downloading 5803362 bytes
+2021-04-15 01:07:24,408 - [INFO] [Alessia Cara - Make It To Christmas (Stripped)] Applying tags to the track
+2021-04-15 01:07:24,433 - [INFO] [Alessia Cara - Make It To Christmas (Stripped)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Holiday Stuff/01 - Make It To Christmas (Stripped).mp3
+2021-04-15 01:07:24,442 - [INFO] [Alessia Cara - Moody's Mood For Love] Getting the tags
+2021-04-15 01:07:24,558 - [INFO] [Alessia Cara - The Christmas Song] Applying tags to the track
+2021-04-15 01:07:24,569 - [INFO] [Alessia Cara - The Christmas Song] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Holiday Stuff/02 - The Christmas Song.mp3
+2021-04-15 01:07:25,597 - [INFO] [Alessia Cara - Moody's Mood For Love (Live)] Getting the album cover
+2021-04-15 01:07:25,598 - [INFO] [Alessia Cara - Moody's Mood For Love (Live)] Downloading the track
+2021-04-15 01:07:25,612 - [INFO] [Alessia Cara - The Only Thing Missing] Applying tags to the track
+2021-04-15 01:07:25,621 - [INFO] [Alessia Cara - The Only Thing Missing] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Holiday Stuff/03 - The Only Thing Missing.mp3
+2021-04-15 01:07:25,988 - [INFO] [Alessia Cara - Moody's Mood For Love (Live)] downloading 7755231 bytes
+2021-04-15 01:07:27,003 - [INFO] [Alessia Cara - Moody's Mood For Love (Live)] Applying tags to the track
+2021-04-15 01:07:27,012 - [INFO] [Alessia Cara - Moody's Mood For Love (Live)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Holiday Stuff/04 - Moody's Mood For Love (Live).mp3
+2021-04-15 01:07:27,260 - [INFO] [album_191090432_3] Finished downloading.
+2021-04-15 01:07:27,261 - [INFO] [album_160266662_3] Started downloading.
+2021-04-15 01:07:27,262 - [INFO] [Alessia Cara - Summertime] Getting the tags
+2021-04-15 01:07:27,263 - [INFO] [Alessia Cara - Ready] Getting the tags
+2021-04-15 01:07:27,264 - [INFO] [Alessia Cara - What's On Your Mind?] Getting the tags
+2021-04-15 01:07:28,411 - [INFO] [Alessia Cara - What's On Your Mind? (Live Off The Floor)] Getting the album cover
+2021-04-15 01:07:28,420 - [INFO] [Alessia Cara - Summertime (Live Off The Floor)] Getting the album cover
+2021-04-15 01:07:28,600 - [INFO] [Alessia Cara - Ready (Live Off The Floor)] Getting the album cover
+2021-04-15 01:07:28,608 - [INFO] [Alessia Cara - What's On Your Mind? (Live Off The Floor)] Downloading the track
+2021-04-15 01:07:28,613 - [INFO] [Alessia Cara - Summertime (Live Off The Floor)] Downloading the track
+2021-04-15 01:07:28,783 - [INFO] [Alessia Cara - Ready (Live Off The Floor)] Downloading the track
+2021-04-15 01:07:29,264 - [INFO] [Alessia Cara - What's On Your Mind? (Live Off The Floor)] downloading 7779264 bytes
+2021-04-15 01:07:29,269 - [INFO] [Alessia Cara - Summertime (Live Off The Floor)] downloading 1434644 bytes
+2021-04-15 01:07:29,346 - [INFO] [Alessia Cara - Ready (Live Off The Floor)] downloading 7345631 bytes
+2021-04-15 01:07:29,646 - [INFO] [Alessia Cara - Summertime (Live Off The Floor)] Applying tags to the track
+2021-04-15 01:07:29,659 - [INFO] [Alessia Cara - Summertime (Live Off The Floor)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - This Summer_ Live Off The Floor/01 - Summertime (Live Off The Floor).mp3
+2021-04-15 01:07:29,664 - [INFO] [Alessia Cara - Like You] Getting the tags
+2021-04-15 01:07:30,365 - [INFO] [Alessia Cara - What's On Your Mind? (Live Off The Floor)] Applying tags to the track
+2021-04-15 01:07:30,375 - [INFO] [Alessia Cara - What's On Your Mind? (Live Off The Floor)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - This Summer_ Live Off The Floor/03 - What's On Your Mind_ (Live Off The Floor).mp3
+2021-04-15 01:07:30,376 - [INFO] [Alessia Cara - OKAY OKAY] Getting the tags
+2021-04-15 01:07:30,483 - [INFO] [Alessia Cara - Ready (Live Off The Floor)] Applying tags to the track
+2021-04-15 01:07:30,493 - [INFO] [Alessia Cara - Ready (Live Off The Floor)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - This Summer_ Live Off The Floor/02 - Ready (Live Off The Floor).mp3
+2021-04-15 01:07:30,494 - [INFO] [Alessia Cara - Rooting For You] Getting the tags
+2021-04-15 01:07:30,859 - [INFO] [Alessia Cara - Like You (Live Off The Floor)] Getting the album cover
+2021-04-15 01:07:30,859 - [INFO] [Alessia Cara - Like You (Live Off The Floor)] Downloading the track
+2021-04-15 01:07:31,336 - [INFO] [Alessia Cara - Like You (Live Off The Floor)] downloading 6087574 bytes
+2021-04-15 01:07:31,521 - [INFO] [Alessia Cara - OKAY OKAY (Live Off The Floor)] Getting the album cover
+2021-04-15 01:07:31,522 - [INFO] [Alessia Cara - OKAY OKAY (Live Off The Floor)] Downloading the track
+2021-04-15 01:07:31,566 - [INFO] [Alessia Cara - Rooting For You (Live Off The Floor)] Getting the album cover
+2021-04-15 01:07:31,566 - [INFO] [Alessia Cara - Rooting For You (Live Off The Floor)] Downloading the track
+2021-04-15 01:07:31,933 - [INFO] [Alessia Cara - Rooting For You (Live Off The Floor)] downloading 6813778 bytes
+2021-04-15 01:07:32,059 - [INFO] [Alessia Cara - Like You (Live Off The Floor)] Applying tags to the track
+2021-04-15 01:07:32,070 - [INFO] [Alessia Cara - Like You (Live Off The Floor)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - This Summer_ Live Off The Floor/04 - Like You (Live Off The Floor).mp3
+2021-04-15 01:07:32,074 - [INFO] [Alessia Cara - October] Getting the tags
+2021-04-15 01:07:32,215 - [INFO] [Alessia Cara - OKAY OKAY (Live Off The Floor)] downloading 6362382 bytes
+2021-04-15 01:07:32,495 - [INFO] [Alessia Cara - Rooting For You (Live Off The Floor)] Applying tags to the track
+2021-04-15 01:07:32,505 - [INFO] [Alessia Cara - Rooting For You (Live Off The Floor)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - This Summer_ Live Off The Floor/06 - Rooting For You (Live Off The Floor).mp3
+2021-04-15 01:07:32,507 - [INFO] [Alessia Cara - Scars To Your Beautiful] Getting the tags
+2021-04-15 01:07:33,228 - [INFO] [Alessia Cara - October (Live Off The Floor)] Getting the album cover
+2021-04-15 01:07:33,229 - [INFO] [Alessia Cara - October (Live Off The Floor)] Downloading the track
+2021-04-15 01:07:33,579 - [INFO] [Alessia Cara - Scars To Your Beautiful (Live Off The Floor Bonus Track)] Getting the album cover
+2021-04-15 01:07:33,580 - [INFO] [Alessia Cara - Scars To Your Beautiful (Live Off The Floor Bonus Track)] Downloading the track
+2021-04-15 01:07:33,851 - [INFO] [Alessia Cara - October (Live Off The Floor)] downloading 9798007 bytes
+2021-04-15 01:07:34,118 - [INFO] [Alessia Cara - Scars To Your Beautiful (Live Off The Floor Bonus Track)] downloading 10686170 bytes
+2021-04-15 01:07:35,731 - [INFO] [Alessia Cara - Scars To Your Beautiful (Live Off The Floor Bonus Track)] Applying tags to the track
+2021-04-15 01:07:35,744 - [INFO] [Alessia Cara - Scars To Your Beautiful (Live Off The Floor Bonus Track)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - This Summer_ Live Off The Floor/08 - Scars To Your Beautiful (Live Off The Floor Bonus Track).mp3
+2021-04-15 01:07:35,747 - [INFO] [Alessia Cara - Here] Getting the tags
+2021-04-15 01:07:36,354 - [INFO] [Alessia Cara - OKAY OKAY (Live Off The Floor)] Applying tags to the track
+2021-04-15 01:07:36,363 - [INFO] [Alessia Cara - OKAY OKAY (Live Off The Floor)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - This Summer_ Live Off The Floor/05 - OKAY OKAY (Live Off The Floor).mp3
+2021-04-15 01:07:36,365 - [INFO] [Alessia Cara - I Choose] Getting the tags
+2021-04-15 01:07:36,896 - [INFO] [Alessia Cara - Here (Live Off The Floor Bonus Track)] Getting the album cover
+2021-04-15 01:07:36,897 - [INFO] [Alessia Cara - Here (Live Off The Floor Bonus Track)] Downloading the track
+2021-04-15 01:07:36,992 - [INFO] [Alessia Cara - October (Live Off The Floor)] Applying tags to the track
+2021-04-15 01:07:37,003 - [INFO] [Alessia Cara - October (Live Off The Floor)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - This Summer_ Live Off The Floor/07 - October (Live Off The Floor).mp3
+2021-04-15 01:07:37,409 - [INFO] [Alessia Cara - Here (Live Off The Floor Bonus Track)] downloading 7976750 bytes
+2021-04-15 01:07:37,442 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / Acoustic Bonus Track)] Getting the album cover
+2021-04-15 01:07:37,444 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / Acoustic Bonus Track)] Downloading the track
+2021-04-15 01:07:37,980 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / Acoustic Bonus Track)] downloading 7605811 bytes
+2021-04-15 01:07:38,302 - [INFO] [Alessia Cara - Here (Live Off The Floor Bonus Track)] Applying tags to the track
+2021-04-15 01:07:38,312 - [INFO] [Alessia Cara - Here (Live Off The Floor Bonus Track)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - This Summer_ Live Off The Floor/09 - Here (Live Off The Floor Bonus Track).mp3
+2021-04-15 01:07:38,862 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / Acoustic Bonus Track)] Applying tags to the track
+2021-04-15 01:07:38,873 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / Acoustic Bonus Track)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - This Summer_ Live Off The Floor/10 - I Choose (From The Netflix Original Film The Willoughbys _ Acoustic Bonus Track).mp3
+2021-04-15 01:07:39,125 - [INFO] [album_160266662_3] Finished downloading.
+2021-04-15 01:07:39,125 - [INFO] [album_109530482_3] Started downloading.
+2021-04-15 01:07:39,126 - [INFO] [Alessia Cara - Ready] Getting the tags
+2021-04-15 01:07:39,127 - [INFO] [Alessia Cara - What's On Your Mind?] Getting the tags
+2021-04-15 01:07:39,128 - [INFO] [Alessia Cara - Like You] Getting the tags
+2021-04-15 01:07:40,205 - [INFO] [Alessia Cara - What's On Your Mind?] Getting the album cover
+2021-04-15 01:07:40,225 - [INFO] [Alessia Cara - Like You] Getting the album cover
+2021-04-15 01:07:40,328 - [INFO] [Alessia Cara - Ready] Getting the album cover
+2021-04-15 01:07:40,386 - [INFO] [Alessia Cara - What's On Your Mind?] Downloading the track
+2021-04-15 01:07:40,403 - [INFO] [Alessia Cara - Like You] Downloading the track
+2021-04-15 01:07:40,516 - [INFO] [Alessia Cara - Ready] Downloading the track
+2021-04-15 01:07:40,612 - [INFO] [Alessia Cara - What's On Your Mind?] downloading 7743737 bytes
+2021-04-15 01:07:40,916 - [INFO] [Alessia Cara - Like You] downloading 5752162 bytes
+2021-04-15 01:07:41,031 - [INFO] [Alessia Cara - Ready] downloading 7150235 bytes
+2021-04-15 01:07:41,917 - [INFO] [Alessia Cara - What's On Your Mind?] Applying tags to the track
+2021-04-15 01:07:41,932 - [INFO] [Alessia Cara - What's On Your Mind?] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - This Summer/02 - What's On Your Mind_.mp3
+2021-04-15 01:07:41,940 - [INFO] [Alessia Cara - OKAY OKAY] Getting the tags
+2021-04-15 01:07:42,088 - [INFO] [Alessia Cara - Like You] Applying tags to the track
+2021-04-15 01:07:42,097 - [INFO] [Alessia Cara - Like You] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - This Summer/03 - Like You.mp3
+2021-04-15 01:07:42,101 - [INFO] [Alessia Cara - Rooting For You] Getting the tags
+2021-04-15 01:07:42,251 - [INFO] [Alessia Cara - Ready] Applying tags to the track
+2021-04-15 01:07:42,260 - [INFO] [Alessia Cara - Ready] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - This Summer/01 - Ready.mp3
+2021-04-15 01:07:42,261 - [INFO] [Alessia Cara - October] Getting the tags
+2021-04-15 01:07:43,102 - [INFO] [Alessia Cara - OKAY OKAY] Getting the album cover
+2021-04-15 01:07:43,103 - [INFO] [Alessia Cara - OKAY OKAY] Downloading the track
+2021-04-15 01:07:43,281 - [INFO] [Alessia Cara - Rooting For You] Getting the album cover
+2021-04-15 01:07:43,282 - [INFO] [Alessia Cara - Rooting For You] Downloading the track
+2021-04-15 01:07:43,424 - [INFO] [Alessia Cara - October] Getting the album cover
+2021-04-15 01:07:43,425 - [INFO] [Alessia Cara - October] Downloading the track
+2021-04-15 01:07:43,683 - [INFO] [Alessia Cara - OKAY OKAY] downloading 6328946 bytes
+2021-04-15 01:07:43,881 - [INFO] [Alessia Cara - October] downloading 9639182 bytes
+2021-04-15 01:07:43,893 - [INFO] [Alessia Cara - Rooting For You] downloading 7044701 bytes
+2021-04-15 01:07:44,967 - [INFO] [Alessia Cara - OKAY OKAY] Applying tags to the track
+2021-04-15 01:07:44,978 - [INFO] [Alessia Cara - OKAY OKAY] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - This Summer/04 - OKAY OKAY.mp3
+2021-04-15 01:07:45,188 - [INFO] [Alessia Cara - Rooting For You] Applying tags to the track
+2021-04-15 01:07:45,197 - [INFO] [Alessia Cara - Rooting For You] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - This Summer/05 - Rooting For You.mp3
+2021-04-15 01:07:45,622 - [INFO] [Alessia Cara - October] Applying tags to the track
+2021-04-15 01:07:45,633 - [INFO] [Alessia Cara - October] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - This Summer/06 - October.mp3
+2021-04-15 01:07:45,852 - [INFO] [album_109530482_3] Finished downloading.
+2021-04-15 01:07:45,853 - [INFO] [album_92095052_3] Started downloading.
+2021-04-15 01:07:45,857 - [INFO] [Alessia Cara - Out Of Love] Getting the tags
+2021-04-15 01:07:45,861 - [INFO] [Alessia Cara - Out Of Love] Getting the tags
+2021-04-15 01:07:45,864 - [INFO] [Alessia Cara - Out Of Love] Getting the tags
+2021-04-15 01:07:47,045 - [INFO] [Alessia Cara - Out Of Love] Getting the album cover
+2021-04-15 01:07:47,053 - [INFO] [Alessia Cara - Out Of Love (Morgan Page Remix)] Getting the album cover
+2021-04-15 01:07:47,259 - [INFO] [Alessia Cara - Out Of Love] Downloading the track
+2021-04-15 01:07:47,273 - [INFO] [Alessia Cara - Out Of Love (Morgan Page Remix)] Downloading the track
+2021-04-15 01:07:47,277 - [INFO] [Alessia Cara - Out Of Love (Devault Remix)] Getting the album cover
+2021-04-15 01:07:47,277 - [INFO] [Alessia Cara - Out Of Love (Devault Remix)] Downloading the track
+2021-04-15 01:07:47,465 - [INFO] [Alessia Cara - Out Of Love (Devault Remix)] downloading 11413419 bytes
+2021-04-15 01:07:47,733 - [INFO] [Alessia Cara - Out Of Love (Morgan Page Remix)] downloading 8980897 bytes
+2021-04-15 01:07:47,858 - [INFO] [Alessia Cara - Out Of Love] downloading 9084342 bytes
+2021-04-15 01:07:48,775 - [INFO] [Alessia Cara - Out Of Love] Applying tags to the track
+2021-04-15 01:07:48,791 - [INFO] [Alessia Cara - Out Of Love] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Out Of Love (Remixes)/01 - Out Of Love.mp3
+2021-04-15 01:07:48,795 - [INFO] [Alessia Cara - Out Of Love] Getting the tags
+2021-04-15 01:07:49,988 - [INFO] [Alessia Cara - Out Of Love (Marc Stout & Tony Arzadon Remix)] Getting the album cover
+2021-04-15 01:07:49,989 - [INFO] [Alessia Cara - Out Of Love (Marc Stout & Tony Arzadon Remix)] Downloading the track
+2021-04-15 01:07:50,032 - [INFO] [Alessia Cara - Out Of Love (Morgan Page Remix)] Applying tags to the track
+2021-04-15 01:07:50,043 - [INFO] [Alessia Cara - Out Of Love (Morgan Page Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Out Of Love (Remixes)/03 - Out Of Love (Morgan Page Remix).mp3
+2021-04-15 01:07:50,044 - [INFO] [Alessia Cara - Out Of Love] Getting the tags
+2021-04-15 01:07:50,493 - [INFO] [Alessia Cara - Out Of Love (Marc Stout & Tony Arzadon Remix)] downloading 8367542 bytes
+2021-04-15 01:07:51,242 - [INFO] [Alessia Cara - Out Of Love (Mangal Suvarnan Remix)] Getting the album cover
+2021-04-15 01:07:51,243 - [INFO] [Alessia Cara - Out Of Love (Mangal Suvarnan Remix)] Downloading the track
+2021-04-15 01:07:51,489 - [INFO] [Alessia Cara - Out Of Love (Marc Stout & Tony Arzadon Remix)] Applying tags to the track
+2021-04-15 01:07:51,499 - [INFO] [Alessia Cara - Out Of Love (Marc Stout & Tony Arzadon Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Out Of Love (Remixes)/04 - Out Of Love (Marc Stout & Tony Arzadon Remix).mp3
+2021-04-15 01:07:51,502 - [INFO] [Alessia Cara - Out Of Love] Getting the tags
+2021-04-15 01:07:51,680 - [INFO] [Alessia Cara - Out Of Love (Devault Remix)] Applying tags to the track
+2021-04-15 01:07:51,691 - [INFO] [Alessia Cara - Out Of Love (Devault Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Out Of Love (Remixes)/02 - Out Of Love (Devault Remix).mp3
+2021-04-15 01:07:51,700 - [INFO] [Alessia Cara - Out Of Love (Mangal Suvarnan Remix)] downloading 8392619 bytes
+2021-04-15 01:07:52,557 - [INFO] [Alessia Cara - Out Of Love (Ruhde Remix)] Getting the album cover
+2021-04-15 01:07:52,558 - [INFO] [Alessia Cara - Out Of Love (Ruhde Remix)] Downloading the track
+2021-04-15 01:07:53,049 - [INFO] [Alessia Cara - Out Of Love (Mangal Suvarnan Remix)] Applying tags to the track
+2021-04-15 01:07:53,059 - [INFO] [Alessia Cara - Out Of Love (Mangal Suvarnan Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Out Of Love (Remixes)/05 - Out Of Love (Mangal Suvarnan Remix).mp3
+2021-04-15 01:07:53,064 - [INFO] [Alessia Cara - Out Of Love (Ruhde Remix)] downloading 8985076 bytes
+2021-04-15 01:07:53,877 - [INFO] [Alessia Cara - Out Of Love (Ruhde Remix)] Applying tags to the track
+2021-04-15 01:07:53,890 - [INFO] [Alessia Cara - Out Of Love (Ruhde Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Out Of Love (Remixes)/06 - Out Of Love (Ruhde Remix).mp3
+2021-04-15 01:07:54,115 - [INFO] [album_92095052_3] Finished downloading.
+2021-04-15 01:07:54,116 - [INFO] [album_79877032_3] Started downloading.
+2021-04-15 01:07:54,120 - [INFO] [Alessia Cara - Growing Pains] Getting the tags
+2021-04-15 01:07:54,126 - [INFO] [Alessia Cara - Not Today] Getting the tags
+2021-04-15 01:07:54,128 - [INFO] [Alessia Cara - I Don't Want To] Getting the tags
+2021-04-15 01:07:55,167 - [INFO] [Alessia Cara - Growing Pains] Getting the album cover
+2021-04-15 01:07:55,284 - [INFO] [Alessia Cara - I Don't Want To] Getting the album cover
+2021-04-15 01:07:55,392 - [INFO] [Alessia Cara - Not Today] Getting the album cover
+2021-04-15 01:07:55,708 - [INFO] [Alessia Cara - Growing Pains] Downloading the track
+2021-04-15 01:07:55,831 - [INFO] [Alessia Cara - I Don't Want To] Downloading the track
+2021-04-15 01:07:55,929 - [INFO] [Alessia Cara - Not Today] Downloading the track
+2021-04-15 01:07:56,320 - [INFO] [Alessia Cara - Growing Pains] downloading 7747917 bytes
+2021-04-15 01:07:56,488 - [INFO] [Alessia Cara - I Don't Want To] downloading 6502399 bytes
+2021-04-15 01:07:56,601 - [INFO] [Alessia Cara - Not Today] downloading 6264162 bytes
+2021-04-15 01:07:57,345 - [INFO] [Alessia Cara - Growing Pains] Applying tags to the track
+2021-04-15 01:07:57,363 - [INFO] [Alessia Cara - Growing Pains] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - The Pains Of Growing/01 - Growing Pains.mp3
+2021-04-15 01:07:57,372 - [INFO] [Alessia Cara - 7 Days] Getting the tags
+2021-04-15 01:07:57,697 - [INFO] [Alessia Cara - I Don't Want To] Applying tags to the track
+2021-04-15 01:07:57,706 - [INFO] [Alessia Cara - I Don't Want To] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - The Pains Of Growing/03 - I Don't Want To.mp3
+2021-04-15 01:07:57,710 - [INFO] [Alessia Cara - Trust My Lonely] Getting the tags
+2021-04-15 01:07:58,037 - [INFO] [Alessia Cara - Not Today] Applying tags to the track
+2021-04-15 01:07:58,046 - [INFO] [Alessia Cara - Not Today] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - The Pains Of Growing/02 - Not Today.mp3
+2021-04-15 01:07:58,047 - [INFO] [Alessia Cara - Wherever I Live] Getting the tags
+2021-04-15 01:07:58,569 - [INFO] [Alessia Cara - 7 Days] Getting the album cover
+2021-04-15 01:07:58,570 - [INFO] [Alessia Cara - 7 Days] Downloading the track
+2021-04-15 01:07:58,771 - [INFO] [Alessia Cara - Trust My Lonely] Getting the album cover
+2021-04-15 01:07:58,772 - [INFO] [Alessia Cara - Trust My Lonely] Downloading the track
+2021-04-15 01:07:59,036 - [INFO] [Alessia Cara - 7 Days] downloading 8349778 bytes
+2021-04-15 01:07:59,139 - [INFO] [Alessia Cara - Wherever I Live] Getting the album cover
+2021-04-15 01:07:59,140 - [INFO] [Alessia Cara - Wherever I Live] Downloading the track
+2021-04-15 01:07:59,318 - [INFO] [Alessia Cara - Trust My Lonely] downloading 7992423 bytes
+2021-04-15 01:07:59,621 - [INFO] [Alessia Cara - Wherever I Live] downloading 7419819 bytes
+2021-04-15 01:08:00,539 - [INFO] [Alessia Cara - Trust My Lonely] Applying tags to the track
+2021-04-15 01:08:00,549 - [INFO] [Alessia Cara - Trust My Lonely] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - The Pains Of Growing/05 - Trust My Lonely.mp3
+2021-04-15 01:08:00,553 - [INFO] [Alessia Cara - All We Know] Getting the tags
+2021-04-15 01:08:00,966 - [INFO] [Alessia Cara - Wherever I Live] Applying tags to the track
+2021-04-15 01:08:00,977 - [INFO] [Alessia Cara - Wherever I Live] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - The Pains Of Growing/06 - Wherever I Live.mp3
+2021-04-15 01:08:00,978 - [INFO] [Alessia Cara - A Little More] Getting the tags
+2021-04-15 01:08:01,615 - [INFO] [Alessia Cara - 7 Days] Applying tags to the track
+2021-04-15 01:08:01,625 - [INFO] [Alessia Cara - 7 Days] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - The Pains Of Growing/04 - 7 Days.mp3
+2021-04-15 01:08:01,626 - [INFO] [Alessia Cara - Comfortable] Getting the tags
+2021-04-15 01:08:01,671 - [INFO] [Alessia Cara - All We Know] Getting the album cover
+2021-04-15 01:08:01,672 - [INFO] [Alessia Cara - All We Know] Downloading the track
+2021-04-15 01:08:02,174 - [INFO] [Alessia Cara - A Little More] Getting the album cover
+2021-04-15 01:08:02,175 - [INFO] [Alessia Cara - A Little More] Downloading the track
+2021-04-15 01:08:02,294 - [INFO] [Alessia Cara - All We Know] downloading 8150203 bytes
+2021-04-15 01:08:02,753 - [INFO] [Alessia Cara - A Little More] downloading 5849337 bytes
+2021-04-15 01:08:02,799 - [INFO] [Alessia Cara - Comfortable] Getting the album cover
+2021-04-15 01:08:02,800 - [INFO] [Alessia Cara - Comfortable] Downloading the track
+2021-04-15 01:08:03,308 - [INFO] [Alessia Cara - All We Know] Applying tags to the track
+2021-04-15 01:08:03,319 - [INFO] [Alessia Cara - All We Know] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - The Pains Of Growing/07 - All We Know.mp3
+2021-04-15 01:08:03,325 - [INFO] [Alessia Cara - Nintendo Game] Getting the tags
+2021-04-15 01:08:03,413 - [INFO] [Alessia Cara - Comfortable] downloading 10296423 bytes
+2021-04-15 01:08:03,463 - [INFO] [Alessia Cara - A Little More] Applying tags to the track
+2021-04-15 01:08:03,472 - [INFO] [Alessia Cara - A Little More] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - The Pains Of Growing/08 - A Little More.mp3
+2021-04-15 01:08:03,473 - [INFO] [Alessia Cara - Out Of Love] Getting the tags
+2021-04-15 01:08:04,385 - [INFO] [Alessia Cara - Comfortable] Applying tags to the track
+2021-04-15 01:08:04,395 - [INFO] [Alessia Cara - Comfortable] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - The Pains Of Growing/09 - Comfortable.mp3
+2021-04-15 01:08:04,396 - [INFO] [Alessia Cara - Girl Next Door] Getting the tags
+2021-04-15 01:08:04,525 - [INFO] [Alessia Cara - Nintendo Game] Getting the album cover
+2021-04-15 01:08:04,526 - [INFO] [Alessia Cara - Nintendo Game] Downloading the track
+2021-04-15 01:08:04,679 - [INFO] [Alessia Cara - Out Of Love] Getting the album cover
+2021-04-15 01:08:04,680 - [INFO] [Alessia Cara - Out Of Love] Downloading the track
+2021-04-15 01:08:05,128 - [INFO] [Alessia Cara - Out Of Love] downloading 9110464 bytes
+2021-04-15 01:08:05,132 - [INFO] [Alessia Cara - Nintendo Game] downloading 6477321 bytes
+2021-04-15 01:08:05,443 - [INFO] [Alessia Cara - Girl Next Door] Getting the album cover
+2021-04-15 01:08:05,444 - [INFO] [Alessia Cara - Girl Next Door] Downloading the track
+2021-04-15 01:08:05,903 - [INFO] [Alessia Cara - Nintendo Game] Applying tags to the track
+2021-04-15 01:08:05,913 - [INFO] [Alessia Cara - Nintendo Game] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - The Pains Of Growing/10 - Nintendo Game.mp3
+2021-04-15 01:08:05,915 - [INFO] [Alessia Cara - My Kind] Getting the tags
+2021-04-15 01:08:06,047 - [INFO] [Alessia Cara - Girl Next Door] downloading 8106317 bytes
+2021-04-15 01:08:07,069 - [INFO] [Alessia Cara - My Kind] Getting the album cover
+2021-04-15 01:08:07,070 - [INFO] [Alessia Cara - My Kind] Downloading the track
+2021-04-15 01:08:07,158 - [INFO] [Alessia Cara - Out Of Love] Applying tags to the track
+2021-04-15 01:08:07,169 - [INFO] [Alessia Cara - Out Of Love] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - The Pains Of Growing/11 - Out Of Love.mp3
+2021-04-15 01:08:07,172 - [INFO] [Alessia Cara - Easier Said] Getting the tags
+2021-04-15 01:08:07,638 - [INFO] [Alessia Cara - My Kind] downloading 7256815 bytes
+2021-04-15 01:08:08,143 - [INFO] [Alessia Cara - Girl Next Door] Applying tags to the track
+2021-04-15 01:08:08,153 - [INFO] [Alessia Cara - Girl Next Door] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - The Pains Of Growing/12 - Girl Next Door.mp3
+2021-04-15 01:08:08,159 - [INFO] [Alessia Cara - Growing Pains (Reprise)] Getting the tags
+2021-04-15 01:08:08,327 - [INFO] [Alessia Cara - Easier Said] Getting the album cover
+2021-04-15 01:08:08,328 - [INFO] [Alessia Cara - Easier Said] Downloading the track
+2021-04-15 01:08:08,356 - [INFO] [Alessia Cara - My Kind] Applying tags to the track
+2021-04-15 01:08:08,366 - [INFO] [Alessia Cara - My Kind] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - The Pains Of Growing/13 - My Kind.mp3
+2021-04-15 01:08:08,894 - [INFO] [Alessia Cara - Easier Said] downloading 8212897 bytes
+2021-04-15 01:08:09,356 - [INFO] [Alessia Cara - Growing Pains (Reprise)] Getting the album cover
+2021-04-15 01:08:09,357 - [INFO] [Alessia Cara - Growing Pains (Reprise)] Downloading the track
+2021-04-15 01:08:09,857 - [INFO] [Alessia Cara - Easier Said] Applying tags to the track
+2021-04-15 01:08:09,867 - [INFO] [Alessia Cara - Easier Said] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - The Pains Of Growing/14 - Easier Said.mp3
+2021-04-15 01:08:09,920 - [INFO] [Alessia Cara - Growing Pains (Reprise)] downloading 2394905 bytes
+2021-04-15 01:08:10,341 - [INFO] [Alessia Cara - Growing Pains (Reprise)] Applying tags to the track
+2021-04-15 01:08:10,348 - [INFO] [Alessia Cara - Growing Pains (Reprise)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - The Pains Of Growing/15 - Growing Pains (Reprise).mp3
+2021-04-15 01:08:10,561 - [INFO] [album_79877032_3] Finished downloading.
+2021-04-15 01:08:10,562 - [INFO] [album_78417572_3] Started downloading.
+2021-04-15 01:08:10,562 - [INFO] [Alessia Cara - Trust My Lonely] Getting the tags
+2021-04-15 01:08:10,563 - [INFO] [Alessia Cara - Trust My Lonely] Getting the tags
+2021-04-15 01:08:10,564 - [INFO] [Alessia Cara - Trust My Lonely] Getting the tags
+2021-04-15 01:08:11,638 - [INFO] [Alessia Cara - Trust My Lonely (John Christian Remix)] Getting the album cover
+2021-04-15 01:08:11,734 - [INFO] [Alessia Cara - Trust My Lonely (Frank Walker Remix)] Getting the album cover
+2021-04-15 01:08:11,737 - [INFO] [Alessia Cara - Trust My Lonely (Rain Or Shine Remix)] Getting the album cover
+2021-04-15 01:08:11,821 - [INFO] [Alessia Cara - Trust My Lonely (John Christian Remix)] Downloading the track
+2021-04-15 01:08:11,915 - [INFO] [Alessia Cara - Trust My Lonely (Frank Walker Remix)] Downloading the track
+2021-04-15 01:08:11,927 - [INFO] [Alessia Cara - Trust My Lonely (Rain Or Shine Remix)] Downloading the track
+2021-04-15 01:08:12,369 - [INFO] [Alessia Cara - Trust My Lonely (Frank Walker Remix)] downloading 7468929 bytes
+2021-04-15 01:08:12,437 - [INFO] [Alessia Cara - Trust My Lonely (John Christian Remix)] downloading 9529468 bytes
+2021-04-15 01:08:12,498 - [INFO] [Alessia Cara - Trust My Lonely (Rain Or Shine Remix)] downloading 11027852 bytes
+2021-04-15 01:08:14,034 - [INFO] [Alessia Cara - Trust My Lonely (Rain Or Shine Remix)] Applying tags to the track
+2021-04-15 01:08:14,050 - [INFO] [Alessia Cara - Trust My Lonely (Rain Or Shine Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Trust My Lonely (Remixes)/02 - Trust My Lonely (Rain Or Shine Remix).mp3
+2021-04-15 01:08:14,057 - [INFO] [Alessia Cara - Trust My Lonely] Getting the tags
+2021-04-15 01:08:14,221 - [INFO] [Alessia Cara - Trust My Lonely (Frank Walker Remix)] Applying tags to the track
+2021-04-15 01:08:14,234 - [INFO] [Alessia Cara - Trust My Lonely (Frank Walker Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Trust My Lonely (Remixes)/01 - Trust My Lonely (Frank Walker Remix).mp3
+2021-04-15 01:08:14,236 - [INFO] [Alessia Cara - Trust My Lonely] Getting the tags
+2021-04-15 01:08:14,344 - [INFO] [Alessia Cara - Trust My Lonely (John Christian Remix)] Applying tags to the track
+2021-04-15 01:08:14,357 - [INFO] [Alessia Cara - Trust My Lonely (John Christian Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Trust My Lonely (Remixes)/03 - Trust My Lonely (John Christian Remix).mp3
+2021-04-15 01:08:14,361 - [INFO] [Alessia Cara - Trust My Lonely] Getting the tags
+2021-04-15 01:08:15,127 - [INFO] [Alessia Cara - Trust My Lonely (Andrelli Remix)] Getting the album cover
+2021-04-15 01:08:15,128 - [INFO] [Alessia Cara - Trust My Lonely (Andrelli Remix)] Downloading the track
+2021-04-15 01:08:15,267 - [INFO] [Alessia Cara - Trust My Lonely (Kenyi Remix)] Getting the album cover
+2021-04-15 01:08:15,267 - [INFO] [Alessia Cara - Trust My Lonely (Kenyi Remix)] Downloading the track
+2021-04-15 01:08:15,414 - [INFO] [Alessia Cara - Trust My Lonely (Nick Rockwell Remix)] Getting the album cover
+2021-04-15 01:08:15,415 - [INFO] [Alessia Cara - Trust My Lonely (Nick Rockwell Remix)] Downloading the track
+2021-04-15 01:08:15,692 - [INFO] [Alessia Cara - Trust My Lonely (Andrelli Remix)] downloading 8531591 bytes
+2021-04-15 01:08:15,752 - [INFO] [Alessia Cara - Trust My Lonely (Nick Rockwell Remix)] downloading 12958823 bytes
+2021-04-15 01:08:15,861 - [INFO] [Alessia Cara - Trust My Lonely (Kenyi Remix)] downloading 9259884 bytes
+2021-04-15 01:08:16,942 - [INFO] [Alessia Cara - Trust My Lonely (Andrelli Remix)] Applying tags to the track
+2021-04-15 01:08:16,954 - [INFO] [Alessia Cara - Trust My Lonely (Andrelli Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Trust My Lonely (Remixes)/04 - Trust My Lonely (Andrelli Remix).mp3
+2021-04-15 01:08:16,962 - [INFO] [Alessia Cara - Trust My Lonely] Getting the tags
+2021-04-15 01:08:17,492 - [INFO] [Alessia Cara - Trust My Lonely (Nick Rockwell Remix)] Applying tags to the track
+2021-04-15 01:08:17,504 - [INFO] [Alessia Cara - Trust My Lonely (Nick Rockwell Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Trust My Lonely (Remixes)/06 - Trust My Lonely (Nick Rockwell Remix).mp3
+2021-04-15 01:08:18,042 - [INFO] [Alessia Cara - Trust My Lonely (Bashment Remix)] Getting the album cover
+2021-04-15 01:08:18,043 - [INFO] [Alessia Cara - Trust My Lonely (Bashment Remix)] Downloading the track
+2021-04-15 01:08:18,182 - [INFO] [Alessia Cara - Trust My Lonely (Kenyi Remix)] Applying tags to the track
+2021-04-15 01:08:18,196 - [INFO] [Alessia Cara - Trust My Lonely (Kenyi Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Trust My Lonely (Remixes)/05 - Trust My Lonely (Kenyi Remix).mp3
+2021-04-15 01:08:18,319 - [INFO] [Alessia Cara - Trust My Lonely (Bashment Remix)] downloading 8196178 bytes
+2021-04-15 01:08:19,123 - [INFO] [Alessia Cara - Trust My Lonely (Bashment Remix)] Applying tags to the track
+2021-04-15 01:08:19,133 - [INFO] [Alessia Cara - Trust My Lonely (Bashment Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Trust My Lonely (Remixes)/07 - Trust My Lonely (Bashment Remix).mp3
+2021-04-15 01:08:19,344 - [INFO] [album_78417572_3] Finished downloading.
+2021-04-15 01:08:19,344 - [INFO] [album_69612952_3] Started downloading.
+2021-04-15 01:08:19,345 - [INFO] [Alessia Cara - Growing Pains] Getting the tags
+2021-04-15 01:08:19,346 - [INFO] [Alessia Cara - Growing Pains] Getting the tags
+2021-04-15 01:08:19,347 - [INFO] [Alessia Cara - Growing Pains] Getting the tags
+2021-04-15 01:08:20,408 - [INFO] [Alessia Cara - Growing Pains (Toby Green Remix)] Getting the album cover
+2021-04-15 01:08:20,501 - [INFO] [Alessia Cara - Growing Pains (Eden Prince Remix)] Getting the album cover
+2021-04-15 01:08:20,572 - [INFO] [Alessia Cara - Growing Pains (Toby Green Remix)] Downloading the track
+2021-04-15 01:08:20,666 - [INFO] [Alessia Cara - Growing Pains (Eden Prince Remix)] Downloading the track
+2021-04-15 01:08:20,772 - [INFO] [Alessia Cara - Growing Pains (Alphalove Remix)] Getting the album cover
+2021-04-15 01:08:20,772 - [INFO] [Alessia Cara - Growing Pains (Alphalove Remix)] Downloading the track
+2021-04-15 01:08:21,127 - [INFO] [Alessia Cara - Growing Pains (Toby Green Remix)] downloading 7012309 bytes
+2021-04-15 01:08:21,158 - [INFO] [Alessia Cara - Growing Pains (Eden Prince Remix)] downloading 8560848 bytes
+2021-04-15 01:08:21,268 - [INFO] [Alessia Cara - Growing Pains (Alphalove Remix)] downloading 8502333 bytes
+2021-04-15 01:08:21,909 - [INFO] [Alessia Cara - Growing Pains (Toby Green Remix)] Applying tags to the track
+2021-04-15 01:08:21,923 - [INFO] [Alessia Cara - Growing Pains (Toby Green Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Growing Pains (Remixes)/02 - Growing Pains (Toby Green Remix).mp3
+2021-04-15 01:08:21,925 - [INFO] [Alessia Cara - Growing Pains] Getting the tags
+2021-04-15 01:08:23,112 - [INFO] [Alessia Cara - Growing Pains (Dombresky Remix)] Getting the album cover
+2021-04-15 01:08:23,113 - [INFO] [Alessia Cara - Growing Pains (Dombresky Remix)] Downloading the track
+2021-04-15 01:08:23,669 - [INFO] [Alessia Cara - Growing Pains (Dombresky Remix)] downloading 8315297 bytes
+2021-04-15 01:08:23,770 - [INFO] [Alessia Cara - Growing Pains (Eden Prince Remix)] Applying tags to the track
+2021-04-15 01:08:23,788 - [INFO] [Alessia Cara - Growing Pains (Eden Prince Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Growing Pains (Remixes)/01 - Growing Pains (Eden Prince Remix).mp3
+2021-04-15 01:08:23,792 - [INFO] [Alessia Cara - Growing Pains] Getting the tags
+2021-04-15 01:08:24,471 - [INFO] [Alessia Cara - Growing Pains (Alphalove Remix)] Applying tags to the track
+2021-04-15 01:08:24,486 - [INFO] [Alessia Cara - Growing Pains (Alphalove Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Growing Pains (Remixes)/03 - Growing Pains (Alphalove Remix).mp3
+2021-04-15 01:08:24,491 - [INFO] [Alessia Cara - Growing Pains] Getting the tags
+2021-04-15 01:08:24,610 - [INFO] [Alessia Cara - Growing Pains (Dombresky Remix)] Applying tags to the track
+2021-04-15 01:08:24,621 - [INFO] [Alessia Cara - Growing Pains (Dombresky Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Growing Pains (Remixes)/04 - Growing Pains (Dombresky Remix).mp3
+2021-04-15 01:08:25,004 - [INFO] [Alessia Cara - Growing Pains (Justin Caruso Remix)] Getting the album cover
+2021-04-15 01:08:25,005 - [INFO] [Alessia Cara - Growing Pains (Justin Caruso Remix)] Downloading the track
+2021-04-15 01:08:25,542 - [INFO] [Alessia Cara - Growing Pains (FORD MISKIN Remix)] Getting the album cover
+2021-04-15 01:08:25,543 - [INFO] [Alessia Cara - Growing Pains (FORD MISKIN Remix)] Downloading the track
+2021-04-15 01:08:25,583 - [INFO] [Alessia Cara - Growing Pains (Justin Caruso Remix)] downloading 7242186 bytes
+2021-04-15 01:08:26,176 - [INFO] [Alessia Cara - Growing Pains (FORD MISKIN Remix)] downloading 6281925 bytes
+2021-04-15 01:08:26,400 - [INFO] [Alessia Cara - Growing Pains (Justin Caruso Remix)] Applying tags to the track
+2021-04-15 01:08:26,411 - [INFO] [Alessia Cara - Growing Pains (Justin Caruso Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Growing Pains (Remixes)/05 - Growing Pains (Justin Caruso Remix).mp3
+2021-04-15 01:08:26,830 - [INFO] [Alessia Cara - Growing Pains (FORD MISKIN Remix)] Applying tags to the track
+2021-04-15 01:08:26,840 - [INFO] [Alessia Cara - Growing Pains (FORD MISKIN Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Growing Pains (Remixes)/06 - Growing Pains (FORD MISKIN Remix).mp3
+2021-04-15 01:08:27,043 - [INFO] [album_69612952_3] Finished downloading.
+2021-04-15 01:08:27,043 - [INFO] [album_42220211_3] Started downloading.
+2021-04-15 01:08:27,044 - [INFO] [ZEDD - Stay] Getting the tags
+2021-04-15 01:08:27,045 - [INFO] [ZEDD - Stay] Getting the tags
+2021-04-15 01:08:27,046 - [INFO] [ZEDD - Stay] Getting the tags
+2021-04-15 01:08:28,148 - [INFO] [ZEDD - Stay (Jonas Blue Remix)] Getting the album cover
+2021-04-15 01:08:28,152 - [INFO] [ZEDD - Stay (The Kemist Remix)] Getting the album cover
+2021-04-15 01:08:28,303 - [INFO] [ZEDD - Stay (Petit Biscuit Remix)] Getting the album cover
+2021-04-15 01:08:28,307 - [INFO] [ZEDD - Stay (Jonas Blue Remix)] Downloading the track
+2021-04-15 01:08:28,315 - [INFO] [ZEDD - Stay (The Kemist Remix)] Downloading the track
+2021-04-15 01:08:28,455 - [INFO] [ZEDD - Stay (Petit Biscuit Remix)] Downloading the track
+2021-04-15 01:08:28,757 - [INFO] [ZEDD - Stay (Jonas Blue Remix)] downloading 10655868 bytes
+2021-04-15 01:08:29,007 - [INFO] [ZEDD - Stay (Petit Biscuit Remix)] downloading 9670529 bytes
+2021-04-15 01:08:29,859 - [INFO] [ZEDD - Stay (The Kemist Remix)] downloading 8665337 bytes
+2021-04-15 01:08:29,948 - [INFO] [ZEDD - Stay (Petit Biscuit Remix)] Applying tags to the track
+2021-04-15 01:08:29,965 - [INFO] [ZEDD - Stay (Petit Biscuit Remix)] Track download completed
+/home/cole/Music/deemix Music/ZEDD - Stay (Remixes)/01 - Stay (Petit Biscuit Remix).mp3
+2021-04-15 01:08:29,967 - [INFO] [ZEDD - Stay] Getting the tags
+2021-04-15 01:08:30,863 - [INFO] [ZEDD - Stay (The Kemist Remix)] Applying tags to the track
+2021-04-15 01:08:30,873 - [INFO] [ZEDD - Stay (The Kemist Remix)] Track download completed
+/home/cole/Music/deemix Music/ZEDD - Stay (Remixes)/02 - Stay (The Kemist Remix).mp3
+2021-04-15 01:08:30,874 - [INFO] [ZEDD - Stay] Getting the tags
+2021-04-15 01:08:31,087 - [INFO] [ZEDD - Stay (Lophiile Remix)] Getting the album cover
+2021-04-15 01:08:31,088 - [INFO] [ZEDD - Stay (Lophiile Remix)] Downloading the track
+2021-04-15 01:08:31,693 - [INFO] [ZEDD - Stay (Lophiile Remix)] downloading 8146023 bytes
+2021-04-15 01:08:32,035 - [INFO] [ZEDD - Stay (Yasutaka Nakata Remix)] Getting the album cover
+2021-04-15 01:08:32,036 - [INFO] [ZEDD - Stay (Yasutaka Nakata Remix)] Downloading the track
+2021-04-15 01:08:32,404 - [INFO] [ZEDD - Stay (Jonas Blue Remix)] Applying tags to the track
+2021-04-15 01:08:32,415 - [INFO] [ZEDD - Stay (Jonas Blue Remix)] Track download completed
+/home/cole/Music/deemix Music/ZEDD - Stay (Remixes)/03 - Stay (Jonas Blue Remix).mp3
+2021-04-15 01:08:32,421 - [INFO] [ZEDD - Stay] Getting the tags
+2021-04-15 01:08:32,527 - [INFO] [ZEDD - Stay (Yasutaka Nakata Remix)] downloading 10820962 bytes
+2021-04-15 01:08:32,591 - [INFO] [ZEDD - Stay (Lophiile Remix)] Applying tags to the track
+2021-04-15 01:08:32,601 - [INFO] [ZEDD - Stay (Lophiile Remix)] Track download completed
+/home/cole/Music/deemix Music/ZEDD - Stay (Remixes)/04 - Stay (Lophiile Remix).mp3
+2021-04-15 01:08:33,653 - [INFO] [ZEDD - Stay (Yasutaka Nakata Remix)] Applying tags to the track
+2021-04-15 01:08:33,664 - [INFO] [ZEDD - Stay (Yasutaka Nakata Remix)] Track download completed
+/home/cole/Music/deemix Music/ZEDD - Stay (Remixes)/05 - Stay (Yasutaka Nakata Remix).mp3
+2021-04-15 01:08:33,666 - [INFO] [ZEDD - Stay (Tritonal Remix)] Getting the album cover
+2021-04-15 01:08:33,666 - [INFO] [ZEDD - Stay (Tritonal Remix)] Downloading the track
+2021-04-15 01:08:34,180 - [INFO] [ZEDD - Stay (Tritonal Remix)] downloading 9132407 bytes
+2021-04-15 01:08:35,094 - [INFO] [ZEDD - Stay (Tritonal Remix)] Applying tags to the track
+2021-04-15 01:08:35,105 - [INFO] [ZEDD - Stay (Tritonal Remix)] Track download completed
+/home/cole/Music/deemix Music/ZEDD - Stay (Remixes)/06 - Stay (Tritonal Remix).mp3
+2021-04-15 01:08:35,288 - [INFO] [album_42220211_3] Finished downloading.
+2021-04-15 01:08:35,289 - [INFO] [album_14344408_3] Started downloading.
+2021-04-15 01:08:35,289 - [INFO] [Alessia Cara - Scars To Your Beautiful] Getting the tags
+2021-04-15 01:08:35,290 - [INFO] [Alessia Cara - Scars To Your Beautiful] Getting the tags
+2021-04-15 01:08:35,291 - [INFO] [Alessia Cara - Scars To Your Beautiful] Getting the tags
+2021-04-15 01:08:36,444 - [INFO] [Alessia Cara - Scars To Your Beautiful (Cages Remix)] Getting the album cover
+2021-04-15 01:08:36,451 - [INFO] [Alessia Cara - Scars To Your Beautiful (NOTD Remix)] Getting the album cover
+2021-04-15 01:08:36,599 - [INFO] [Alessia Cara - Scars To Your Beautiful (Cages Remix)] Downloading the track
+2021-04-15 01:08:36,606 - [INFO] [Alessia Cara - Scars To Your Beautiful (NOTD Remix)] Downloading the track
+2021-04-15 01:08:36,648 - [INFO] [Alessia Cara - Scars To Your Beautiful (Luca Schreiner Remix)] Getting the album cover
+2021-04-15 01:08:36,649 - [INFO] [Alessia Cara - Scars To Your Beautiful (Luca Schreiner Remix)] Downloading the track
+2021-04-15 01:08:37,082 - [INFO] [Alessia Cara - Scars To Your Beautiful (Cages Remix)] downloading 10725876 bytes
+2021-04-15 01:08:37,146 - [INFO] [Alessia Cara - Scars To Your Beautiful (NOTD Remix)] downloading 7985109 bytes
+2021-04-15 01:08:37,283 - [INFO] [Alessia Cara - Scars To Your Beautiful (Luca Schreiner Remix)] downloading 10509582 bytes
+2021-04-15 01:08:38,790 - [INFO] [Alessia Cara - Scars To Your Beautiful (NOTD Remix)] Applying tags to the track
+2021-04-15 01:08:38,807 - [INFO] [Alessia Cara - Scars To Your Beautiful (NOTD Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Scars To Your Beautiful (Remixes)/02 - Scars To Your Beautiful (NOTD Remix).mp3
+2021-04-15 01:08:38,814 - [INFO] [Alessia Cara - Scars To Your Beautiful] Getting the tags
+2021-04-15 01:08:38,912 - [INFO] [Alessia Cara - Scars To Your Beautiful (Cages Remix)] Applying tags to the track
+2021-04-15 01:08:38,923 - [INFO] [Alessia Cara - Scars To Your Beautiful (Cages Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Scars To Your Beautiful (Remixes)/03 - Scars To Your Beautiful (Cages Remix).mp3
+2021-04-15 01:08:38,927 - [INFO] [Alessia Cara - Scars To Your Beautiful] Getting the tags
+2021-04-15 01:08:39,078 - [INFO] [Alessia Cara - Scars To Your Beautiful (Luca Schreiner Remix)] Applying tags to the track
+2021-04-15 01:08:39,090 - [INFO] [Alessia Cara - Scars To Your Beautiful (Luca Schreiner Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Scars To Your Beautiful (Remixes)/01 - Scars To Your Beautiful (Luca Schreiner Remix).mp3
+2021-04-15 01:08:39,893 - [INFO] [Alessia Cara - Scars To Your Beautiful (Joe Mason Remix)] Getting the album cover
+2021-04-15 01:08:39,893 - [INFO] [Alessia Cara - Scars To Your Beautiful (Joe Mason Remix)] Downloading the track
+2021-04-15 01:08:39,992 - [INFO] [Alessia Cara - Scars To Your Beautiful (recycle jordan Remix)] Getting the album cover
+2021-04-15 01:08:39,993 - [INFO] [Alessia Cara - Scars To Your Beautiful (recycle jordan Remix)] Downloading the track
+2021-04-15 01:08:40,366 - [INFO] [Alessia Cara - Scars To Your Beautiful (Joe Mason Remix)] downloading 9247346 bytes
+2021-04-15 01:08:40,453 - [INFO] [Alessia Cara - Scars To Your Beautiful (recycle jordan Remix)] downloading 8522186 bytes
+2021-04-15 01:08:41,564 - [INFO] [Alessia Cara - Scars To Your Beautiful (Joe Mason Remix)] Applying tags to the track
+2021-04-15 01:08:41,574 - [INFO] [Alessia Cara - Scars To Your Beautiful (Joe Mason Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Scars To Your Beautiful (Remixes)/04 - Scars To Your Beautiful (Joe Mason Remix).mp3
+2021-04-15 01:08:42,820 - [INFO] [Alessia Cara - Scars To Your Beautiful (recycle jordan Remix)] Applying tags to the track
+2021-04-15 01:08:42,831 - [INFO] [Alessia Cara - Scars To Your Beautiful (recycle jordan Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Scars To Your Beautiful (Remixes)/05 - Scars To Your Beautiful (recycle jordan Remix).mp3
+2021-04-15 01:08:43,026 - [INFO] [album_14344408_3] Finished downloading.
+2021-04-15 01:08:43,026 - [INFO] [album_13082702_3] Started downloading.
+2021-04-15 01:08:43,027 - [INFO] [Alessia Cara - Wild Things] Getting the tags
+2021-04-15 01:08:43,028 - [INFO] [Alessia Cara - Wild Things] Getting the tags
+2021-04-15 01:08:43,029 - [INFO] [Alessia Cara - Wild Things] Getting the tags
+2021-04-15 01:08:44,178 - [INFO] [Alessia Cara - Wild Things] Getting the album cover
+2021-04-15 01:08:44,211 - [INFO] [Alessia Cara - Wild Things (Young Bombs Remix)] Getting the album cover
+2021-04-15 01:08:44,236 - [INFO] [Alessia Cara - Wild Things (MK Remix)] Getting the album cover
+2021-04-15 01:08:44,348 - [INFO] [Alessia Cara - Wild Things] Downloading the track
+2021-04-15 01:08:44,369 - [INFO] [Alessia Cara - Wild Things (Young Bombs Remix)] Downloading the track
+2021-04-15 01:08:44,391 - [INFO] [Alessia Cara - Wild Things (MK Remix)] Downloading the track
+2021-04-15 01:08:44,814 - [INFO] [Alessia Cara - Wild Things (Young Bombs Remix)] downloading 9699786 bytes
+2021-04-15 01:08:44,832 - [INFO] [Alessia Cara - Wild Things] downloading 8986121 bytes
+2021-04-15 01:08:44,871 - [INFO] [Alessia Cara - Wild Things (MK Remix)] downloading 12605648 bytes
+2021-04-15 01:08:46,564 - [INFO] [Alessia Cara - Wild Things] Applying tags to the track
+2021-04-15 01:08:46,579 - [INFO] [Alessia Cara - Wild Things] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Wild Things (The Remixes)/01 - Wild Things.mp3
+2021-04-15 01:08:46,583 - [INFO] [Alessia Cara - Wild Things] Getting the tags
+2021-04-15 01:08:46,993 - [INFO] [Alessia Cara - Wild Things (Young Bombs Remix)] Applying tags to the track
+2021-04-15 01:08:47,003 - [INFO] [Alessia Cara - Wild Things (Young Bombs Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Wild Things (The Remixes)/02 - Wild Things (Young Bombs Remix).mp3
+2021-04-15 01:08:47,474 - [INFO] [Alessia Cara - Wild Things (MK Remix)] Applying tags to the track
+2021-04-15 01:08:47,487 - [INFO] [Alessia Cara - Wild Things (MK Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Wild Things (The Remixes)/03 - Wild Things (MK Remix).mp3
+2021-04-15 01:08:47,749 - [INFO] [Alessia Cara - Wild Things (NuKid Remix)] Getting the album cover
+2021-04-15 01:08:47,750 - [INFO] [Alessia Cara - Wild Things (NuKid Remix)] Downloading the track
+2021-04-15 01:08:48,251 - [INFO] [Alessia Cara - Wild Things (NuKid Remix)] downloading 12603558 bytes
+2021-04-15 01:08:50,516 - [INFO] [Alessia Cara - Wild Things (NuKid Remix)] Applying tags to the track
+2021-04-15 01:08:50,528 - [INFO] [Alessia Cara - Wild Things (NuKid Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Wild Things (The Remixes)/04 - Wild Things (NuKid Remix).mp3
+2021-04-15 01:08:50,722 - [INFO] [album_13082702_3] Finished downloading.
+2021-04-15 01:08:50,723 - [INFO] [album_12865188_3] Started downloading.
+2021-04-15 01:08:50,723 - [INFO] [Alessia Cara - Here] Getting the tags
+2021-04-15 01:08:50,725 - [INFO] [Alessia Cara - Here] Getting the tags
+2021-04-15 01:08:50,726 - [INFO] [Alessia Cara - Here] Getting the tags
+2021-04-15 01:08:51,881 - [INFO] [Alessia Cara - Here (Logic Remix)] Getting the album cover
+2021-04-15 01:08:51,894 - [INFO] [Alessia Cara - Here (Chris Lorenzo Remix)] Getting the album cover
+2021-04-15 01:08:51,896 - [INFO] [Alessia Cara - Here (Jaden Smith Remix)] Getting the album cover
+2021-04-15 01:08:52,030 - [INFO] [Alessia Cara - Here (Logic Remix)] Downloading the track
+2021-04-15 01:08:52,048 - [INFO] [Alessia Cara - Here (Jaden Smith Remix)] Downloading the track
+2021-04-15 01:08:52,054 - [INFO] [Alessia Cara - Here (Chris Lorenzo Remix)] Downloading the track
+2021-04-15 01:08:52,350 - [INFO] [Alessia Cara - Here (Jaden Smith Remix)] downloading 8976717 bytes
+2021-04-15 01:08:52,541 - [INFO] [Alessia Cara - Here (Chris Lorenzo Remix)] downloading 11770774 bytes
+2021-04-15 01:08:53,039 - [INFO] [Alessia Cara - Here (Logic Remix)] downloading 8011231 bytes
+2021-04-15 01:08:53,079 - [INFO] [Alessia Cara - Here (Jaden Smith Remix)] Applying tags to the track
+2021-04-15 01:08:53,095 - [INFO] [Alessia Cara - Here (Jaden Smith Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Here (The Remixes)/02 - Here (Jaden Smith Remix).mp3
+2021-04-15 01:08:53,097 - [INFO] [Alessia Cara - Here] Getting the tags
+2021-04-15 01:08:54,300 - [INFO] [Alessia Cara - Here (Imanos & Gramercy Remix)] Getting the album cover
+2021-04-15 01:08:54,300 - [INFO] [Alessia Cara - Here (Imanos & Gramercy Remix)] Downloading the track
+2021-04-15 01:08:54,572 - [INFO] [Alessia Cara - Here (Logic Remix)] Applying tags to the track
+2021-04-15 01:08:54,583 - [INFO] [Alessia Cara - Here (Logic Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Here (The Remixes)/01 - Here (Logic Remix).mp3
+2021-04-15 01:08:54,861 - [INFO] [Alessia Cara - Here (Imanos & Gramercy Remix)] downloading 8302758 bytes
+2021-04-15 01:08:56,210 - [INFO] [Alessia Cara - Here (Imanos & Gramercy Remix)] Applying tags to the track
+2021-04-15 01:08:56,220 - [INFO] [Alessia Cara - Here (Imanos & Gramercy Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Here (The Remixes)/04 - Here (Imanos & Gramercy Remix).mp3
+2021-04-15 01:08:56,503 - [INFO] [Alessia Cara - Here (Chris Lorenzo Remix)] Applying tags to the track
+2021-04-15 01:08:56,514 - [INFO] [Alessia Cara - Here (Chris Lorenzo Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Here (The Remixes)/03 - Here (Chris Lorenzo Remix).mp3
+2021-04-15 01:08:56,677 - [INFO] [album_12865188_3] Finished downloading.
+2021-04-15 01:08:56,678 - [INFO] [album_152280562_3] Started downloading.
+2021-04-15 01:08:56,678 - [INFO] [Alessia Cara - I Choose] Getting the tags
+2021-04-15 01:08:56,680 - [INFO] [Alessia Cara - I Choose] Getting the tags
+2021-04-15 01:08:56,680 - [INFO] [Alessia Cara - I Choose] Getting the tags
+2021-04-15 01:08:57,849 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / Mute Choir Remix)] Getting the album cover
+2021-04-15 01:08:57,853 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / Frank Walker Remix)] Getting the album cover
+2021-04-15 01:08:57,860 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / MK Remix)] Getting the album cover
+2021-04-15 01:08:58,012 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / Mute Choir Remix)] Downloading the track
+2021-04-15 01:08:58,023 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / MK Remix)] Downloading the track
+2021-04-15 01:08:58,043 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / Frank Walker Remix)] Downloading the track
+2021-04-15 01:08:58,368 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / Frank Walker Remix)] downloading 7491917 bytes
+2021-04-15 01:08:58,469 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / MK Remix)] downloading 6677942 bytes
+2021-04-15 01:08:58,539 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / Mute Choir Remix)] downloading 8001827 bytes
+2021-04-15 01:08:59,030 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / Frank Walker Remix)] Applying tags to the track
+2021-04-15 01:08:59,050 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / Frank Walker Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys _ Remixes)/02 - I Choose (From The Netflix Original Film The Willoughbys _ Frank Walker Remix).mp3
+2021-04-15 01:09:00,396 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / MK Remix)] Applying tags to the track
+2021-04-15 01:09:00,408 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / MK Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys _ Remixes)/01 - I Choose (From The Netflix Original Film The Willoughbys _ MK Remix).mp3
+2021-04-15 01:09:00,972 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / Mute Choir Remix)] Applying tags to the track
+2021-04-15 01:09:00,986 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys / Mute Choir Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys _ Remixes)/03 - I Choose (From The Netflix Original Film The Willoughbys _ Mute Choir Remix).mp3
+2021-04-15 01:09:01,209 - [INFO] [album_152280562_3] Finished downloading.
+2021-04-15 01:09:01,210 - [INFO] [track_916267662_3] Started downloading.
+2021-04-15 01:09:01,211 - [INFO] [Alessia Cara - I Choose] Getting the tags
+2021-04-15 01:09:02,058 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys)] Getting the album cover
+2021-04-15 01:09:02,243 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys)] Downloading the track
+2021-04-15 01:09:02,684 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys)] downloading 8696684 bytes
+2021-04-15 01:09:04,321 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys)] Applying tags to the track
+2021-04-15 01:09:04,336 - [INFO] [Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - I Choose (From The Netflix Original Film The Willoughbys).mp3
+2021-04-15 01:09:04,337 - [INFO] [track_916267662_3] Finished downloading.
+2021-04-15 01:09:04,337 - [INFO] [track_796301392_3] Started downloading.
+2021-04-15 01:09:04,339 - [INFO] [Alessia Cara - Make It To Christmas] Getting the tags
+2021-04-15 01:09:05,259 - [INFO] [Alessia Cara - Make It To Christmas] Getting the album cover
+2021-04-15 01:09:05,439 - [INFO] [Alessia Cara - Make It To Christmas] Downloading the track
+2021-04-15 01:09:06,021 - [INFO] [Alessia Cara - Make It To Christmas] downloading 8442774 bytes
+2021-04-15 01:09:06,978 - [INFO] [Alessia Cara - Make It To Christmas] Applying tags to the track
+2021-04-15 01:09:06,995 - [INFO] [Alessia Cara - Make It To Christmas] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Make It To Christmas.mp3
+2021-04-15 01:09:06,996 - [INFO] [track_796301392_3] Finished downloading.
+2021-04-15 01:09:06,996 - [INFO] [track_725651472_3] Started downloading.
+2021-04-15 01:09:06,997 - [INFO] [Alessia Cara - Rooting For You] Getting the tags
+2021-04-15 01:09:07,719 - [INFO] [Alessia Cara - Rooting For You] Getting the album cover
+2021-04-15 01:09:08,322 - [INFO] [Alessia Cara - Rooting For You] Downloading the track
+2021-04-15 01:09:09,078 - [INFO] [Alessia Cara - Rooting For You] downloading 7045746 bytes
+2021-04-15 01:09:09,835 - [INFO] [Alessia Cara - Rooting For You] Applying tags to the track
+2021-04-15 01:09:09,849 - [INFO] [Alessia Cara - Rooting For You] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Rooting For You.mp3
+2021-04-15 01:09:09,850 - [INFO] [track_725651472_3] Finished downloading.
+2021-04-15 01:09:09,851 - [INFO] [track_649782212_3] Started downloading.
+2021-04-15 01:09:09,852 - [INFO] [Alessia Cara - Out Of Love] Getting the tags
+2021-04-15 01:09:10,566 - [INFO] [Alessia Cara - Out Of Love (Devault Remix)] Getting the album cover
+2021-04-15 01:09:11,148 - [INFO] [Alessia Cara - Out Of Love (Devault Remix)] Downloading the track
+2021-04-15 01:09:11,755 - [INFO] [Alessia Cara - Out Of Love (Devault Remix)] downloading 11297435 bytes
+2021-04-15 01:09:13,473 - [INFO] [Alessia Cara - Out Of Love (Devault Remix)] Applying tags to the track
+2021-04-15 01:09:13,493 - [INFO] [Alessia Cara - Out Of Love (Devault Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Out Of Love (Devault Remix).mp3
+2021-04-15 01:09:13,494 - [INFO] [track_649782212_3] Finished downloading.
+2021-04-15 01:09:13,496 - [INFO] [track_583075942_3] Started downloading.
+2021-04-15 01:09:13,496 - [INFO] [Alessia Cara - Not Today] Getting the tags
+2021-04-15 01:09:14,331 - [INFO] [Alessia Cara - Not Today] Getting the album cover
+2021-04-15 01:09:14,903 - [INFO] [Alessia Cara - Not Today] Downloading the track
+2021-04-15 01:09:15,118 - [INFO] [Alessia Cara - Not Today] downloading 6264162 bytes
+2021-04-15 01:09:15,814 - [INFO] [Alessia Cara - Not Today] Applying tags to the track
+2021-04-15 01:09:15,829 - [INFO] [Alessia Cara - Not Today] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Not Today.mp3
+2021-04-15 01:09:15,830 - [INFO] [track_583075942_3] Finished downloading.
+2021-04-15 01:09:15,830 - [INFO] [track_561891882_3] Started downloading.
+2021-04-15 01:09:15,831 - [INFO] [Alessia Cara - Trust My Lonely] Getting the tags
+2021-04-15 01:09:16,536 - [INFO] [Alessia Cara - Trust My Lonely] Getting the album cover
+2021-04-15 01:09:17,146 - [INFO] [Alessia Cara - Trust My Lonely] Downloading the track
+2021-04-15 01:09:17,626 - [INFO] [Alessia Cara - Trust My Lonely] downloading 7991378 bytes
+2021-04-15 01:09:19,159 - [INFO] [Alessia Cara - Trust My Lonely] Applying tags to the track
+2021-04-15 01:09:19,189 - [INFO] [Alessia Cara - Trust My Lonely] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Trust My Lonely.mp3
+2021-04-15 01:09:19,190 - [INFO] [track_561891882_3] Finished downloading.
+2021-04-15 01:09:19,190 - [INFO] [track_546727072_3] Started downloading.
+2021-04-15 01:09:19,190 - [INFO] [Alessia Cara - Growing Pains] Getting the tags
+2021-04-15 01:09:19,996 - [INFO] [Alessia Cara - Growing Pains (Acoustic)] Getting the album cover
+2021-04-15 01:09:20,584 - [INFO] [Alessia Cara - Growing Pains (Acoustic)] Downloading the track
+2021-04-15 01:09:21,191 - [INFO] [Alessia Cara - Growing Pains (Acoustic)] downloading 7730154 bytes
+2021-04-15 01:09:22,024 - [INFO] [Alessia Cara - Growing Pains (Acoustic)] Applying tags to the track
+2021-04-15 01:09:22,040 - [INFO] [Alessia Cara - Growing Pains (Acoustic)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Growing Pains (Acoustic).mp3
+2021-04-15 01:09:22,041 - [INFO] [track_546727072_3] Finished downloading.
+2021-04-15 01:09:22,041 - [INFO] [album_71057012_3] Started downloading.
+2021-04-15 01:09:22,042 - [INFO] [Alessia Cara - Growing Pains] Getting the tags
+2021-04-15 01:09:22,044 - [INFO] [Alessia Cara - Growing Pains] Getting the tags
+2021-04-15 01:09:22,044 - [INFO] [Alessia Cara - Growing Pains] Getting the tags
+2021-04-15 01:09:23,203 - [INFO] [Alessia Cara - Growing Pains (The Kemist Remix)] Getting the album cover
+2021-04-15 01:09:23,206 - [INFO] [Alessia Cara - Growing Pains (Locals Only Sound Remix)] Getting the album cover
+2021-04-15 01:09:23,223 - [INFO] [Alessia Cara - Growing Pains (BRAVVO Remix)] Getting the album cover
+2021-04-15 01:09:23,364 - [INFO] [Alessia Cara - Growing Pains (The Kemist Remix)] Downloading the track
+2021-04-15 01:09:23,368 - [INFO] [Alessia Cara - Growing Pains (Locals Only Sound Remix)] Downloading the track
+2021-04-15 01:09:23,378 - [INFO] [Alessia Cara - Growing Pains (BRAVVO Remix)] Downloading the track
+2021-04-15 01:09:23,939 - [INFO] [Alessia Cara - Growing Pains (BRAVVO Remix)] downloading 8917158 bytes
+2021-04-15 01:09:23,987 - [INFO] [Alessia Cara - Growing Pains (Locals Only Sound Remix)] downloading 7825240 bytes
+2021-04-15 01:09:24,102 - [INFO] [Alessia Cara - Growing Pains (The Kemist Remix)] downloading 8666382 bytes
+2021-04-15 01:09:24,829 - [INFO] [Alessia Cara - Growing Pains (Locals Only Sound Remix)] Applying tags to the track
+2021-04-15 01:09:24,844 - [INFO] [Alessia Cara - Growing Pains (Locals Only Sound Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Growing Pains (Remixes Pt. 2)/03 - Growing Pains (Locals Only Sound Remix).mp3
+2021-04-15 01:09:26,819 - [INFO] [Alessia Cara - Growing Pains (BRAVVO Remix)] Applying tags to the track
+2021-04-15 01:09:26,830 - [INFO] [Alessia Cara - Growing Pains (BRAVVO Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Growing Pains (Remixes Pt. 2)/01 - Growing Pains (BRAVVO Remix).mp3
+2021-04-15 01:09:27,241 - [INFO] [Alessia Cara - Growing Pains (The Kemist Remix)] Applying tags to the track
+2021-04-15 01:09:27,251 - [INFO] [Alessia Cara - Growing Pains (The Kemist Remix)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Growing Pains (Remixes Pt. 2)/02 - Growing Pains (The Kemist Remix).mp3
+2021-04-15 01:09:27,468 - [INFO] [album_71057012_3] Finished downloading.
+2021-04-15 01:09:27,468 - [INFO] [track_525234032_3] Started downloading.
+2021-04-15 01:09:27,469 - [INFO] [Alessia Cara - A Little More] Getting the tags
+2021-04-15 01:09:28,268 - [INFO] [Alessia Cara - A Little More] Getting the album cover
+2021-04-15 01:09:28,884 - [INFO] [Alessia Cara - A Little More] Downloading the track
+2021-04-15 01:09:29,475 - [INFO] [Alessia Cara - A Little More] downloading 5791868 bytes
+2021-04-15 01:09:30,249 - [INFO] [Alessia Cara - A Little More] Applying tags to the track
+2021-04-15 01:09:30,263 - [INFO] [Alessia Cara - A Little More] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - A Little More.mp3
+2021-04-15 01:09:30,264 - [INFO] [track_525234032_3] Finished downloading.
+2021-04-15 01:09:30,264 - [INFO] [track_511036672_3] Started downloading.
+2021-04-15 01:09:30,265 - [INFO] [Alessia Cara - Growing Pains] Getting the tags
+2021-04-15 01:09:31,064 - [INFO] [Alessia Cara - Growing Pains] Getting the album cover
+2021-04-15 01:09:31,230 - [INFO] [Alessia Cara - Growing Pains] Downloading the track
+2021-04-15 01:09:31,722 - [INFO] [Alessia Cara - Growing Pains] downloading 7750007 bytes
+2021-04-15 01:09:32,516 - [INFO] [Alessia Cara - Growing Pains] Applying tags to the track
+2021-04-15 01:09:32,531 - [INFO] [Alessia Cara - Growing Pains] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - Growing Pains.mp3
+2021-04-15 01:09:32,533 - [INFO] [track_511036672_3] Finished downloading.
+2021-04-15 01:09:32,533 - [INFO] [track_369223131_3] Started downloading.
+2021-04-15 01:09:32,534 - [INFO] [ZEDD - Stay] Getting the tags
+2021-04-15 01:09:33,338 - [INFO] [ZEDD - Stay (Acoustic)] Getting the album cover
+2021-04-15 01:09:33,505 - [INFO] [ZEDD - Stay (Acoustic)] Downloading the track
+2021-04-15 01:09:34,042 - [INFO] [ZEDD - Stay (Acoustic)] downloading 7804342 bytes
+2021-04-15 01:09:34,827 - [INFO] [ZEDD - Stay (Acoustic)] Applying tags to the track
+2021-04-15 01:09:34,841 - [INFO] [ZEDD - Stay (Acoustic)] Track download completed
+/home/cole/Music/deemix Music/ZEDD - Stay (Acoustic).mp3
+2021-04-15 01:09:34,842 - [INFO] [track_369223131_3] Finished downloading.
+2021-04-15 01:09:34,842 - [INFO] [track_349109331_3] Started downloading.
+2021-04-15 01:09:34,843 - [INFO] [Alessia Cara - The Other Side (Alessia Cara Version)] Getting the tags
+2021-04-15 01:09:35,557 - [INFO] [Alessia Cara - The Other Side (Alessia Cara Version)] Getting the album cover
+2021-04-15 01:09:35,760 - [INFO] [Alessia Cara - The Other Side (Alessia Cara Version)] Downloading the track
+2021-04-15 01:09:36,237 - [INFO] [Alessia Cara - The Other Side (Alessia Cara Version)] downloading 7973615 bytes
+2021-04-15 01:09:37,716 - [INFO] [Alessia Cara - The Other Side (Alessia Cara Version)] Applying tags to the track
+2021-04-15 01:09:37,730 - [INFO] [Alessia Cara - The Other Side (Alessia Cara Version)] Track download completed
+/home/cole/Music/deemix Music/Alessia Cara - The Other Side (Alessia Cara Version).mp3
+2021-04-15 01:09:37,731 - [INFO] [track_349109331_3] Finished downloading.
+2021-04-15 01:09:37,731 - [INFO] [track_142808100_3] Started downloading.
+2021-04-15 01:09:37,732 - [INFO] [ZEDD - Stay] Getting the tags
+2021-04-15 01:09:38,526 - [INFO] [ZEDD - Stay] Getting the album cover
+2021-04-15 01:09:38,680 - [INFO] [ZEDD - Stay] Downloading the track
+2021-04-15 01:09:38,820 - [INFO] [ZEDD - Stay] downloading 8406203 bytes
+2021-04-15 01:09:39,595 - [INFO] [ZEDD - Stay] Applying tags to the track
+2021-04-15 01:09:39,611 - [INFO] [ZEDD - Stay] Track download completed
+/home/cole/Music/deemix Music/ZEDD - Stay.mp3
+2021-04-15 01:09:39,613 - [INFO] [track_142808100_3] Finished downloading.
+2021-04-15 01:09:39,613 - [INFO] [track_780614452_3] Started downloading.
+2021-04-15 01:09:39,613 - [INFO] [Bastille - Another Place] Getting the tags
+2021-04-15 01:09:40,416 - [INFO] [Bastille - Another Place] Getting the album cover
+2021-04-15 01:09:40,599 - [INFO] [Bastille - Another Place] Downloading the track
+2021-04-15 01:09:40,817 - [INFO] [Bastille - Another Place] downloading 8543084 bytes
+2021-04-15 01:09:41,723 - [INFO] [Bastille - Another Place] Applying tags to the track
+2021-04-15 01:09:41,737 - [INFO] [Bastille - Another Place] Track download completed
+/home/cole/Music/deemix Music/Bastille - Another Place.mp3
+2021-04-15 01:09:41,738 - [INFO] [track_780614452_3] Finished downloading.
